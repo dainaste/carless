@@ -76,8 +76,9 @@ _______  ______ _______ _______ _     _ _______  ______
 |_____  |    \_ |     | |_____  |    \_ |______ |    \_
 ───────────────────────────────────────────────────────
  [\x1b[1;96m+%s] Author   : daimaster carles
- [\x1b[1;96m+%s] Github   : git clone https github.com/daimaster/carles
+ [\x1b[1;96m+%s] Github   : https github.com/dainaste/carless
  [\x1b[1;96m+%s] Facebook : daimaster carles
+ [\x1b[1;96m+%s] WhatsApp : +6287811783861
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 
 class login:
